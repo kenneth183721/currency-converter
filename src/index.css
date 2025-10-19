@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inputField {
+  margin-bottom: 8px;
+  width: 120px;
+  margin-right: 16px;
+  padding: 4px;
+}
+
+.selectBtn {
+  padding: 8px 12px;
+  background-color: rgb(10, 116, 155);
+  color: white;
+  border-radius: 4px;
+  border: none;
+  height: 36px;
+}
+
+.convertRow {
+  display: flex;
+  align-items: center;
+}
+
+.convert {
+  width: 132px;
+  margin-right: 16px;
+}
