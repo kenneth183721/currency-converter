@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+.container {
+  margin-top: 64px;
+  text-align: center;
+}
+
 .inputField {
   margin-bottom: 8px;
   width: 120px;
@@ -22,6 +27,7 @@
 .convertRow {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .convert {

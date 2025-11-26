@@ -26,7 +26,7 @@ export default function App() {
   );
 
   return (
-    <div>
+    <div className="container">
       <div>
         <input
           className="inputField"
