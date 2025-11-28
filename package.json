@@ -1,6 +1,6 @@
 {
   "homepage": "https://kenneth183721.github.io/currency-converter",
-  "name": "usepopcorn",
+  "name": "currency-converter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
